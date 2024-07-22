@@ -1,0 +1,46 @@
+.c1{
+    align-items: center;
+    background-size:100%;
+    margin-top: 0px;
+}
+.s1{
+    margin-top: 0px;
+    text-align: center;
+    color: rgb(247, 247, 247);
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 50px;
+    
+}
+.s2{
+    background-color:rgba(0, 0, 0, 0.5);
+    border: 2px;
+    border-radius: 20px;
+    text-align: center;
+    height: 240px;
+    width:40%;
+    margin-top: 150px;
+    margin-left: 450px;
+    padding-top: 30px;
+
+}
+.d21{
+    height: 80px;
+
+}
+.d22{
+    height: 80px;
+    
+}
+.d23{
+    height: 80px;
+    
+}
+.b1{
+    background-color: rgb(223, 80, 223);
+    color:rgb(230, 255, 250);
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 20px;
+
+}
